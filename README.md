@@ -36,6 +36,12 @@ Land ownership, community spaces, and hub development
 ### [Proyecto Salvaje](projects/proyecto-salvaje/)
 First land-backed ReFi DAO in Latin America - 12-acre regenerative community in Mazunte with NFT memberships
 
+### [Tech Platform & Development](projects/tech-platform/)
+Full-stack engineering services and technical leadership powering Piedra Azul projects and conscious tech companies
+
+### [Spiritual Retreat Center](projects/spiritual-retreat-center/)
+Sacred healing space offering plant medicine ceremonies, spiritual retreats, and holistic wellness services with a curated practitioner collective
+
 ## Documentation
 
 - [Vision & Mission](docs/vision.md)
