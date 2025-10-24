@@ -42,6 +42,9 @@ Full-stack engineering services and technical leadership powering Piedra Azul pr
 ### [Spiritual Retreat Center](projects/spiritual-retreat-center/)
 Sacred healing space offering plant medicine ceremonies, spiritual retreats, and holistic wellness services with a curated practitioner collective
 
+### [Inner Ascend - Being Human 101](projects/inner-ascend/)
+AI-powered mystery school academy with student manual, accountability swaps, and teacher-student relationships for deep transformation
+
 ## Documentation
 
 - [Vision & Mission](docs/vision.md)
