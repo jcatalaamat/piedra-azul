@@ -60,6 +60,9 @@ Global network platform for smart regenerative communities - AI intelligence + f
 ### [Global Ecovillage Network](projects/global-ecovillage-network/)
 **Own an NFT. Live anywhere. Raise your family free.** Decentralized living network - one membership, access the entire global network of regenerative communities
 
+### [LIFE OS - The Mothership](projects/life-os/)
+**The one system. The operating system for the new world. Everything for our children.** AI-powered integration of all projects - personal growth, community, economy, education, land, purpose. Building the bridge to the future.
+
 ## Documentation
 
 - [Vision & Mission](docs/vision.md)
