@@ -4,12 +4,15 @@ A global network of interconnected spiritual hubs and ecovillages integrating co
 
 ## What is Piedra Azul?
 
-Piedra Azul is creating an ecosystem that combines:
+Piedra Azul is your strategic partner and umbrella ecosystem for creating interconnected regenerative communities. It serves as the project management hub for multiple initiatives that combine:
+
 - **Collective community living** with shared land ownership
 - **Educational programs** for digital nomads, regenerative practices, and life skills
 - **Token-based local economy** connecting services, businesses, and community members
 - **Community platform** for projects, crowdfunding, volunteering, and programs
 - **Physical hubs** starting in Mazunte, connecting existing spaces like Rancho Salvaje and Amakura
+
+Piedra Azul provides the vision, strategy, and coordination for various projects including the flagship **Proyecto Salvaje** land development.
 
 ## Projects
 
@@ -29,6 +32,9 @@ School of life, university residencies, digital nomad programs
 
 ### [Physical Infrastructure](projects/physical-infrastructure/)
 Land ownership, community spaces, and hub development
+
+### [Proyecto Salvaje](projects/proyecto-salvaje/)
+First land-backed ReFi DAO in Latin America - 12-acre regenerative community in Mazunte with NFT memberships
 
 ## Documentation
 

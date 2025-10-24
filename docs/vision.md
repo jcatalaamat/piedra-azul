@@ -8,6 +8,8 @@ To create thriving, interconnected community hubs that empower local economies, 
 
 A global network where spiritual hubs and ecovillages operate as self-sustaining communities, connected by shared values, technology, and resources.
 
+**Piedra Azul** serves as the strategic umbrella and partnership framework, coordinating multiple projects that bring this vision to life, including **Proyecto Salvaje** (the land-backed ReFi DAO in Mazunte).
+
 ## Core Principles
 
 ### Community First
