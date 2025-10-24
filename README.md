@@ -45,6 +45,18 @@ Sacred healing space offering plant medicine ceremonies, spiritual retreats, and
 ### [Inner Ascend - Being Human 101](projects/inner-ascend/)
 AI-powered mystery school academy with student manual, accountability swaps, and teacher-student relationships for deep transformation
 
+### [AI Consultancy & Strategy](projects/ai-consultancy/)
+Strategic AI consulting services helping conscious businesses integrate artificial intelligence ethically and effectively
+
+### [App Development Agency](projects/app-development-agency/)
+Full-service mobile and web app development - transforming visions into reality from concept to launch and growth
+
+### [Facilitator Certification Program](projects/facilitator-certification/)
+Professional training and certification for conscious facilitators using Being Human 101 methodology (9-12 month program)
+
+### [Community AI Platform - Smart Ecovillage Network](projects/community-ai-platform/)
+Global network platform for smart regenerative communities - AI intelligence + formation support + crowdfunding + land acquisition
+
 ## Documentation
 
 - [Vision & Mission](docs/vision.md)
