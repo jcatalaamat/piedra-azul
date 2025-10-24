@@ -70,12 +70,47 @@ Global network platform for smart regenerative communities - AI intelligence + f
 - [Meeting Notes](meetings/)
 - [Research & References](research/)
 
-## Current Status
+---
 
-**Phase**: Concept & Early Planning
-**Location**: Mazunte ecosystem (pilot)
-**Focus**: Defining vision, researching models, building team
+## Founder Documentation (For Investors, Partners, Co-Founders)
+
+**Complete founder package for fundraising and co-founder search:**
+
+### Core Documents
+- **[PITCH.md](founder-docs/PITCH.md)** - 30-second, 3-minute, and 10-minute pitches with full investor deck
+- **[PORTFOLIO.md](founder-docs/PORTFOLIO.md)** - Live projects with metrics (500+ users, 4.8/5 rating)
+- **[FOUNDER-PROFILE.md](founder-docs/FOUNDER-PROFILE.md)** - Background, expertise, what I bring/need
+- **[FUNDRAISING.md](founder-docs/FUNDRAISING.md)** - $500K-1M seed round, use of funds, investor profiles
+- **[PARTNERSHIPS.md](founder-docs/PARTNERSHIPS.md)** - Co-founder search, advisor needs, strategic partnerships
+- **[BUSINESS-MODELS.md](founder-docs/BUSINESS-MODELS.md)** - Revenue models and unit economics for all projects
+- **[PRIORITY-MATRIX.md](founder-docs/PRIORITY-MATRIX.md)** - Project evaluation and focus strategy
+- **[MARKET-RESEARCH.md](founder-docs/MARKET-RESEARCH.md)** - TAM/SAM/SOM, competitive landscape, trends
+- **[TECHNICAL-ARCHITECTURE.md](founder-docs/TECHNICAL-ARCHITECTURE.md)** - Complete tech stack and integration
+
+### Detailed Analysis
+- **[CASE-STUDIES/](founder-docs/CASE-STUDIES/)** - Deep dives on Mazunte Connect, Inner Ascend, Proyecto Salvaje, Hostology
+- **[FINANCIALS/](founder-docs/FINANCIALS/)** - Unit economics, 3-year projections, cap table scenarios, burn rate
+- **[MARKET-ANALYSIS/](founder-docs/MARKET-ANALYSIS/)** - Competitive landscape, market sizing, trends, user research
+
+### Key Metrics
+- **7 live products** deployed and active
+- **500+ users** on Mazunte Connect, 4.8/5 App Store rating
+- **65% completion rate** on Inner Ascend (vs 15% industry avg)
+- **12 acres** of land secured for Proyecto Salvaje
+- **10+ years** engineering experience, 50+ products shipped
+- **$500K-1M** seed round target
+
+**Contact:** hello@astralamat.com | [Portfolio](https://astralamat.com)
 
 ---
 
-*Last updated: 2025-10-24*
+## Current Status
+
+**Phase**: Founder Package Complete, Seeking Co-Founder & Capital
+**Location**: Mazunte ecosystem (pilot)
+**Focus**: Fundraising $500K-1M seed, hiring co-founder/COO, launching LIFE OS MVP
+**Timeline**: Seed close Q1 2026, MVP launch Q2 2026
+
+---
+
+*Last updated: January 2026*
