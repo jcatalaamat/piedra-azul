@@ -57,6 +57,9 @@ Professional training and certification for conscious facilitators using Being H
 ### [Community AI Platform - Smart Ecovillage Network](projects/community-ai-platform/)
 Global network platform for smart regenerative communities - AI intelligence + formation support + crowdfunding + land acquisition
 
+### [Global Ecovillage Network](projects/global-ecovillage-network/)
+**Own an NFT. Live anywhere. Raise your family free.** Decentralized living network - one membership, access the entire global network of regenerative communities
+
 ## Documentation
 
 - [Vision & Mission](docs/vision.md)
